@@ -6,7 +6,7 @@ A collection of TypeScript tutorials, notes, and automation-related learning res
 
 | Article                   | Link                               |
 | ------------------------- | ---------------------------------- |
-| TypeScript Explained      | [Read](./typescript-explained.md)  |
+| TypeScript var let const      | [Read](./typescript-explained.md)  |
 | TypeScript: Sync vs Async | [Read](./typescript_sync_async.md) |
 
 ---
