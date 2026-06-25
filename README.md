@@ -14,7 +14,7 @@ A green checkmark tells you a test passed. It doesn't tell you whether the test 
 
 | Article | Topic | Link |
 |---|---|---|
-| Shift-Left in Practice: One UI Scenario, Twenty API Scenarios  | https://github.com/neharaybag/neharaybag.github.io/blob/dbde43eb0ab3dfe85f6a78a419ddddf728ca6e6d/Shift-Left%20in%20Practice%3A%20One%20UI%20Scenario%2C%20Twenty%20API%20Scenarios |
+| Shift-Left in Practice: One UI Scenario, Twenty API Scenarios  | Framework Migration | [Read](https://neharaybag.github.io/shift-left-one-ui-many-api) |
 | Why I Migrated 200 Flaky Selenium Tests to Playwright | Framework Migration | Coming soon |
 | Building a Self-Healing Locator with Playwright and an LLM | AI-Assisted Testing | Coming soon |
 | Cypress vs Playwright: What I Learned Running Both in Production | Framework Comparison | Coming soon |
