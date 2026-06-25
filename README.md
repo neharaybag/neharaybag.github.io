@@ -63,7 +63,7 @@ Each post above is paired with a real, runnable repository — code first, write
 
 ## 🎯 What This Blog Is For
 
-Mostly written for engineers solving the same problems I have: flaky suites, slow regressions, frameworks that worked fine at 50 tests and fell apart at 500. If you're hiring for SDET / QA Automation roles and want to see how I think, not just what I've listed on a resume — this is the better signal.
+Mostly written for engineers solving the same problems I have: flaky suites, slow regressions, frameworks that worked fine at 50 tests and fell apart at 500. 
 
 ---
 
